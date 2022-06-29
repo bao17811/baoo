@@ -83,7 +83,7 @@
         "logLevel": "error",
         "selfListen": true
     },
-    "version": "1.2.9",
+    "version": "1.2.14",
     "caesar": {
         "caeserPassword": "266303"
     },
@@ -212,5 +212,14 @@
     },
     "tikinfo": {
         "APIKEY": "71378e50c2msh093d7ed0a179213p1a7ccejsnafd92ab825a2"
+    },
+    "ghep": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "info": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
     }
 }
